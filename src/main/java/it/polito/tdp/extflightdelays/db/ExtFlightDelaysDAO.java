@@ -58,7 +58,8 @@ public class ExtFlightDelaysDAO {
 
 			conn.close();
 			
-
+//
+			
 		} catch (SQLException e) {
 			e.printStackTrace();
 			System.out.println("Errore connessione al database");
